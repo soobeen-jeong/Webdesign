@@ -1,0 +1,24 @@
+* { padding: 0; margin: 0; box-sizing: border-box; background-color: #ffffff; color: #333333; }
+li {list-style: none;}
+a {text-decoration: none; color: inherit;}
+img {vertical-align: top;}
+
+.wrap {width: 1200px; height: 700px; margin: 0 auto; }
+
+header {display: flex; height: 100px; width: 300px; align-items: center; }
+.logo {width: 200px; height: 40px;}
+nav {height: 100px; width: 600px; margin: 0 0 0 370px;}
+
+.slidewrap {height: 300px; }
+
+.tab {height: 200px; }
+
+.gallery {height: 200px;}
+
+.banner {height: 200px;}
+
+.footerlogo {height: 100px; width: 400px;}
+
+p {display: block; height: 100px; width: 400px;}
+
+.family {height: 100px; width: 400px;}
